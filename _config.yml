@@ -24,7 +24,9 @@ github_username:  georgiawf
 
 # theme settings:
 theme: minima
-  skin: solarized-light
+
+minima:
+  skin: dark
 
 # Build settings
 # remote_theme: pages-themes/midnight@v0.2.0
