@@ -18,14 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Rocketeering
-email: shaunlowis@gmail.com
-github_username:  shaunlowis
+title: Existential
+email: georgiawilliamsfreeman@gmail.com
+github_username:  georgiawf
+
+# theme settings:
+theme: minima
+  skin: solarized-light
 
 # Build settings
-remote_theme: pages-themes/midnight@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+# remote_theme: pages-themes/midnight@v0.2.0
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude from processing.
 # The following items will not be processed, by default.
