@@ -25,6 +25,13 @@ github_username:  georgiawf
 # theme settings:
 theme: minima
 
+minima:
+  - solarized-light
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
 # Build settings
 # remote_theme: pages-themes/midnight@v0.2.0
 # plugins:
