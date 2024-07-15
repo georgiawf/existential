@@ -2,11 +2,10 @@
 
 Here are some things
 
-## ANOTHER THING
-- A
-- of
-- stuff
-- more stuff
-- and more lol
+Stories:
+- The Morning
+- Psilocybin
+- Neighborhood
+- Grandpa
 
 an addition of text here :^)
